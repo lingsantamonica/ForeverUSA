@@ -25,11 +25,6 @@ top:150px;
 
 }
 
-.MountainImage
-{
-  width: 100%;
-}
-
 .bottomCloud{
   position: absolute;
   left:250px;
@@ -37,16 +32,15 @@ top:150px;
 }
 
 .top-container{
-  background-color: #E4F9F5;
+  background-color:#E4F9F5;
   position: relative;
   padding-top: 100px;
-}
 
+}
 
 .middle-container{
   margin: 100px auto;
 }
-
 
 .bottom-container{
   background-color: #6495ED;
@@ -57,14 +51,13 @@ top:150px;
   padding-bottom: 10px;
 }
 
-
 .IntroTitle{
   margin: 50px auto 0 auto;
-  font-size: 5.625rem;
+  font-size: 6.625rem;
   color: #66BFBF;
   line-height: 2;
+  font-family: 'Dancing Script', cursive;
 }
-
 
 .SecondTitle{
   font-size: 2.5rem;
@@ -75,6 +68,18 @@ top:150px;
 
 .ThirdTitle{
   color: #11999E;
+}
+
+.christmasIcons{
+  width: 10%;
+  height: 10%;
+}
+
+.frontPage{
+  background:url("../img/ChristmasWH.jpeg");
+  background-size: cover;
+  padding-bottom: 2%;
+
 }
 
 
@@ -178,7 +183,7 @@ p{
 /* contactInfo Page */
 .contactForm{
   padding: 15% 10%;
-  background:url("../img/FormBG.jpg");
+  background:url("../img/ChristmasBG.jpg");
   background-size: cover;
 }
 
