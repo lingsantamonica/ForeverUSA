@@ -1,0 +1,213 @@
+
+/* Nav Bar Section */
+
+.navbar-brand {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+/* Homepage section */
+.topCloud{
+position: absolute;
+right: 300px;
+top:150px;
+
+}
+
+.bottomCloud{
+  position: absolute;
+  left:250px;
+  bottom:500px;
+}
+
+.top-container{
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  margin: 100px auto;
+}
+
+.bottom-container{
+  background-color: #6495ED;
+  position: relative;
+
+  line-height: 4;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.IntroTitle{
+  margin: 50px auto 0 auto;
+  font-size: 6.625rem;
+  color: #66BFBF;
+  line-height: 2;
+  font-family: 'Dancing Script', cursive;
+}
+
+.SecondTitle{
+  font-size: 2.5rem;
+  font-weight:normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.ThirdTitle{
+  color: #11999E;
+}
+
+.christmasIcons{
+  width: 10%;
+  height: 10%;
+}
+
+.frontPage{
+  background:url("../img/ChristmasWH.jpeg");
+  background-size: cover;
+  padding-bottom: 2%;
+
+}
+
+
+/* General Style Setting */
+a{
+  color: #2F4F4F;
+  margin:1%;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+ border-color: #EAF6F6;
+ border-style: none;
+ border-top-style: dotted;
+ border-width: 5px;
+ width: 5%;
+ margin:100px auto;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Roboto Slab', serif;
+}
+
+p{
+    line-height: 2;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Adventure Section */
+
+.RoadTrip{
+  width: 100%;
+}
+
+.StatesFlags{
+  padding-top: 10%;
+  padding-bottom:10%;
+}
+
+
+.skill-row{
+  width: 40%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  padding: 2%;
+
+}
+
+.skillPic{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.advPic{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.graImg{
+  padding-bottom: 5%;
+}
+
+/* Skill page */
+.codeTitle{
+    background-color:#00BFFF;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+/* Skill page set */
+.skillPh{
+  margin:5%;
+}
+
+.SkillText{
+  margin-top: 10%;
+}
+
+.skillTitle{
+  color: #66BFBF;
+  padding:5%;
+}
+
+/* contactInfo Page */
+.contactForm{
+  padding: 15% 10%;
+  background:url("../img/ChristmasBG.jpg");
+  background-size: cover;
+}
+
+.contact-form{
+  background: #000000;
+  background: rgba(0,0,0,0.3);
+  padding: 5%;
+  box-shadow: 0 0 10px 3px grey;
+  max-width: 40%;
+}
+
+.contactTitle{
+  font-family: 'Roboto Slab', serif;
+}
+
+.form-group{
+  padding: 1%;
+}
+
+/* Footer Section */
+.CopyRight{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-top: 40px;
+  margin: 0;
+
+}
