@@ -18,17 +18,40 @@
 }
 
 /* Homepage section */
-.topCloud{
-position: absolute;
-right: 300px;
-top:150px;
+
+.candyCane{
+  position: absolute;
+  right: 15%;
 
 }
 
-.bottomCloud{
+
+.christmasSock{
   position: absolute;
-  left:250px;
-  bottom:500px;
+  left: 20%;
+
+
+}
+
+.MrSanta{
+position: absolute;
+left: 8%;
+
+
+}
+
+.snowFlake{
+  position: absolute;
+  left:15%;
+  top:10%;
+}
+
+.snowman{
+  position: absolute;
+  right:40%;
+  top:80%;
+  height: 20%;
+
 }
 
 .top-container{
@@ -36,10 +59,13 @@ top:150px;
   position: relative;
   padding-top: 100px;
 
+
 }
 
 .middle-container{
-  margin: 100px auto;
+  margin:auto;
+  background-color: SeaShell;
+  padding: 10% 5%;
 }
 
 .bottom-container{
@@ -54,7 +80,7 @@ top:150px;
 .IntroTitle{
   margin: 50px auto 0 auto;
   font-size: 6.625rem;
-  color: #66BFBF;
+  color: white;
   line-height: 2;
   font-family: 'Dancing Script', cursive;
 }
@@ -62,7 +88,7 @@ top:150px;
 .SecondTitle{
   font-size: 2.5rem;
   font-weight:normal;
-  color: #66BFBF;
+  color: #98FB98;
   padding-bottom: 10px;
 }
 
@@ -70,15 +96,13 @@ top:150px;
   color: #11999E;
 }
 
-.christmasIcons{
-  width: 10%;
-  height: 10%;
-}
+
+
 
 .frontPage{
   background:url("../img/ChristmasWH.jpeg");
   background-size: cover;
-  padding-bottom: 2%;
+  padding-bottom: 30%;
 
 }
 
@@ -139,7 +163,6 @@ p{
   width: 40%;
   margin:100px auto 100px auto;
   text-align: left;
-  padding: 2%;
 
 }
 
