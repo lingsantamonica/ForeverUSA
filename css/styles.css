@@ -101,7 +101,7 @@ left: 8%;
 
 .frontPage{
   background:url("https://images.pexels.com/photos/1688186/pexels-photo-1688186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-size: contain;
+  background-size: auto;
   padding-bottom: 30%;
 
 }
