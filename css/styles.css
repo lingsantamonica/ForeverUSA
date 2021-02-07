@@ -19,41 +19,6 @@
 
 /* Homepage section */
 
-.candyCane{
-  position: absolute;
-  right: 15%;
-
-}
-
-
-.christmasSock{
-  position: absolute;
-  left: 20%;
-
-
-}
-
-.MrSanta{
-position: absolute;
-left: 8%;
-
-
-}
-
-.snowFlake{
-  position: absolute;
-  left:15%;
-  top:10%;
-}
-
-.snowman{
-  position: absolute;
-  right:40%;
-  top:80%;
-  height: 20%;
-
-}
-
 .top-container{
   background-color:#E4F9F5;
   position: relative;
