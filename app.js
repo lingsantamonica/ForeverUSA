@@ -4,18 +4,18 @@ var hourNow = today.getHours();
 var greeting;
 
 if(hourNow>18){
-  greeting="Good Evening";
+  greeting="Guten Abend";
 }
 else if(hourNow>12)
 {
-  greeting="Good Afternoon";
+  greeting="Guten Nachmittag";
 }
 else if(hourNow>0)
 {
-greeting="Good Morning";
+greeting="Guten Morgen";
 }
 else{
-  greeting="Welcome!";
+  greeting="Willkommen!";
 }
 
 $("h2.Greeting").text(greeting);
