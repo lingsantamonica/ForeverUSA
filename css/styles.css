@@ -29,7 +29,7 @@
 
 .middle-container{
   margin:auto;
-  background-color: SeaShell;
+  background-color: NavajoWhite;
   padding: 10% 5%;
 }
 
@@ -121,6 +121,7 @@ p{
 .StatesFlags{
   padding-top: 10%;
   padding-bottom:10%;
+  background-color:#696969;
 }
 
 
@@ -149,7 +150,7 @@ p{
 
 /* Skill page */
 .codeTitle{
-    background-color:#00BFFF;
+    background-color:#808000;
     padding-top: 10%;
     padding-bottom: 10%;
 }
@@ -164,8 +165,12 @@ p{
 }
 
 .skillTitle{
-  color: #66BFBF;
+  color: #556B2F;
   padding:5%;
+}
+
+.IntroSkill{
+  background-color: SpringGreen;
 }
 
 /* contactInfo Page */
