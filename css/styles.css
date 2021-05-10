@@ -186,7 +186,7 @@ p{
 .contactForm{
   padding: 15% 10%;
   background:url("https://images.pexels.com/photos/6039252/pexels-photo-6039252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-size: cover;
+  background-size: contain;
 }
 
 .contact-form{
