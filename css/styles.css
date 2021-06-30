@@ -29,7 +29,7 @@
 
 .middle-container{
   margin:auto;
-  background-color: NavajoWhite;
+  background-color: RoyalBlue;
   padding: 10% 5%;
 }
 
@@ -53,7 +53,7 @@
 .SecondTitle{
   font-size: 2.5rem;
   font-weight:normal;
-  color: #98FB98;
+  color: #0000FF;
   padding-bottom: 10px;
 }
 
@@ -66,13 +66,13 @@
 
 .frontPage{
 
-  background:url("https://images.pexels.com/photos/7148412/pexels-photo-7148412.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background:url("https://images.pexels.com/photos/7903140/pexels-photo-7903140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-size: cover;
   padding-bottom: 30%;
 
 }
 
-.LosAngelesSpring{
+.LosAngelesSummer{
   border-radius: 40%;
   padding: 5%;
   height: 50%;
@@ -185,7 +185,7 @@ p{
 /* contactInfo Page */
 .contactForm{
   padding: 15% 10%;
-  background:url("https://images.pexels.com/photos/6039252/pexels-photo-6039252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background:url("https://images.pexels.com/photos/3689659/pexels-photo-3689659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-size: contain;
 }
 
