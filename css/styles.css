@@ -29,7 +29,7 @@
 
 .middle-container{
   margin:auto;
-  background-color: RoyalBlue;
+  background-color: CornflowerBlue;
   padding: 10% 5%;
 }
 
@@ -53,7 +53,7 @@
 .SecondTitle{
   font-size: 2.5rem;
   font-weight:normal;
-  color: #0000FF;
+  color: CornflowerBlue;
   padding-bottom: 10px;
 }
 
@@ -130,7 +130,7 @@ p{
 .StatesFlags{
   padding-top: 10%;
   padding-bottom:10%;
-  background-color:#696969;
+  background-color: #4C4C6D;
 }
 
 
@@ -154,6 +154,7 @@ p{
 }
 
 .graImg{
+  padding-top: 5%;
   padding-bottom: 5%;
 }
 
@@ -171,15 +172,16 @@ p{
 
 .SkillText{
   margin-top: 10%;
+  color:CornflowerBlue;
 }
 
 .skillTitle{
-  color: #556B2F;
+  color: CornflowerBlue;
   padding:5%;
 }
 
 .IntroSkill{
-  background-color: SpringGreen;
+  background-color: #4C4C6D;
 }
 
 /* contactInfo Page */
@@ -190,8 +192,8 @@ p{
 }
 
 .contact-form{
-  background: #000000;
-  background: rgba(0,0,0,0.3);
+
+  background: rgba(176,196,222,0.5);
   padding: 5%;
   box-shadow: 0 0 10px 3px grey;
   max-width: 40%;
