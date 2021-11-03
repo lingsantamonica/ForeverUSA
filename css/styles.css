@@ -34,7 +34,7 @@
 }
 
 .bottom-container{
-  background-color: #6495ED;
+  background-color: black;
   position: relative;
 
   line-height: 4;
@@ -66,8 +66,8 @@
 
 .frontPage{
 
-  background:url("https://images.pexels.com/photos/7903140/pexels-photo-7903140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-size: cover;
+  background:url("https://images.pexels.com/photos/1652095/pexels-photo-1652095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: contain;
   padding-bottom: 30%;
 
 }
@@ -187,7 +187,7 @@ p{
 /* contactInfo Page */
 .contactForm{
   padding: 15% 10%;
-  background:url("https://images.pexels.com/photos/3689659/pexels-photo-3689659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background:url("https://images.pexels.com/photos/712318/pexels-photo-712318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-size: contain;
 }
 
