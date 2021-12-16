@@ -94,7 +94,7 @@ a:hover{
 }
 
 body{
-  color: #40514E;
+  color: Maroon;
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
@@ -183,6 +183,9 @@ p{
 .IntroSkill{
   background-color: #4C4C6D;
 }
+
+/*Game page setting*/
+.
 
 /* contactInfo Page */
 .contactForm{
