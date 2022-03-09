@@ -1,6 +1,10 @@
 
 /* Nav Bar Section */
 
+.navbar{
+  background-color: CornflowerBlue;
+}
+
 .navbar-brand {
   font-family: 'Roboto Slab', serif;
   font-size: 1.5rem;
@@ -34,7 +38,7 @@
 }
 
 .bottom-container{
-  background-color: black;
+  background-color: Gold;
   position: relative;
 
   line-height: 4;
@@ -66,7 +70,7 @@
 
 .frontPage{
 
-  background:url("https://images.pexels.com/photos/1652095/pexels-photo-1652095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background:url("https://war.ukraine.ua/wp-content/uploads/2022/03/map.png");
   background-size: contain;
   padding-bottom: 30%;
 
@@ -189,9 +193,11 @@ p{
 
 /* contactInfo Page */
 .contactForm{
-  padding: 15% 10%;
-  background:url("https://images.pexels.com/photos/712318/pexels-photo-712318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-size: contain;
+
+  background:url("https://images.pexels.com/photos/11346324/pexels-photo-11346324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  padding-bottom: 30%;
+  
 }
 
 .contact-form{
