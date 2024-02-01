@@ -70,7 +70,7 @@
 
 .frontPage{
 
-  background:url(img/Cover.jpg);
+  background:url(../img/Cover.jpg);
   background-size: contain;
   padding-bottom: 30%;
 
@@ -194,7 +194,7 @@ p{
 /* contactInfo Page */
 .contactForm{
 
-  background:url(img/Sunset.jpg);
+  background:url(../img/Sunset.jpg);
   background-size: cover;
   padding-bottom: 30%;
   
