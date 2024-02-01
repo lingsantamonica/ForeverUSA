@@ -70,7 +70,7 @@
 
 .frontPage{
 
-  background:url("https://img.peapix.com/21182358f47c478eba236f86ea113fb3_UHD.jpg");
+  background:url(img/Cover.jpg);
   background-size: contain;
   padding-bottom: 30%;
 
@@ -194,7 +194,7 @@ p{
 /* contactInfo Page */
 .contactForm{
 
-  background:url("https://img.peapix.com/e28b169ad7344ec6ac13a891860fc039_UHD.jpg");
+  background:url(img/Sunset.jpg);
   background-size: cover;
   padding-bottom: 30%;
   
